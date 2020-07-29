@@ -1,0 +1,4 @@
+name = "MuttsDicts"
+uuid = "2b2138a9-d4a2-4577-8c4b-c62de65bb7b4"
+authors = ["tveldhui <tveldhui@gmail.com>"]
+version = "0.1.0"
